@@ -28,7 +28,7 @@ Live **Fluid Cloud** word-by-word lyrics, multi-language translation, and **Lock
 
 ## Installation & Setup
 
-1. Download and install the latest `.apk` from [Releases](https://github.com/Xposed-Modules-Repo/io.github.hungnopro.coslrc16/releases).
+1. Download and install the latest `.apk` from [Releases](https://github.com/HungNoPro/Color-Lyric-16/releases).
 2. Open **LSPosed Manager** → enable **Color Lyric 16**.
 3. Ensure **`System UI` (`com.android.systemui`)** is checked in the module scope (the only required scope).
 4. Restart **System UI** (or reboot your device).
